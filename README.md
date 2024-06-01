@@ -9,7 +9,7 @@ Currently I'm studying **Python** and **R** in a self-taught way to become a Dat
 
 Programming Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50px" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />       
 
 Tools
 
